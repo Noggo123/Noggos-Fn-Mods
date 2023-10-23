@@ -1,6 +1,6 @@
 # Noggos-Fn-Mods
-Fortnite mod paks for multiplayer servers. Client-Sided
+Fortnite mod paks for private servers. Client-Side
 
-I will upload new mods often, so keep coming by <3 
+You can use those paks in private servers!
 
-You can use those paks in ERA and in more private servers!
+(DISCONTINUED)
